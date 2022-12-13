@@ -17,3 +17,4 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Jira
+- Zephyr Scale
